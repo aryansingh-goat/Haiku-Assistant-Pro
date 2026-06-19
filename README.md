@@ -198,7 +198,7 @@ This model is derived from SmolLM2-135M-Instruct and is released under the same 
 ## 🙏 Acknowledgements
 
 - Base model: [HuggingFaceTB/SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct)
-- Fine‑tuning and dataset curation by the creator
+- Fine‑tuning and dataset curation by the creator me.
 
 ---
 
