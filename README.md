@@ -199,7 +199,8 @@ This model is derived from SmolLM2-135M-Instruct and is released under the same 
 
 - Base model: [HuggingFaceTB/SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct)
 - Fine‑tuning and dataset curation by the creator me.
-
+- **Any support like stars or downloads will motivate me to make more projects.**
 ---
 
 *Enjoy turning keywords into tiny, vivid worlds.*
+
